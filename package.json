@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "duplexify": "^3.6.0",
-    "ecstatic": "^3.2.1",
+    "ecstatic": "^4.1.4",
     "emit-stream": "^0.1.2",
     "into-stream": "^3.1.0",
     "meow": "^5.0.0",
