@@ -13,7 +13,7 @@
     "ecstatic": "^3.2.1",
     "emit-stream": "^0.1.2",
     "into-stream": "^3.1.0",
-    "meow": "^5.0.0",
+    "meow": "^8.0.0",
     "multipipe": "^2.0.3",
     "mux-demux": "^3.7.9",
     "pause-stream": "0.0.11",
